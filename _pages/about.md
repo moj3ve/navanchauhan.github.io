@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 tags: [about, Jekyll, theme, responsive]
+permalink: /about/
 ---
 
 # About Me
