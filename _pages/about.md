@@ -1,10 +1,8 @@
 ---
 layout: pages
 title: "About Me"
-permalink: /About/
+permalink: /about/
 ---
-
-# About Me
 
 ### The Numbers
 
