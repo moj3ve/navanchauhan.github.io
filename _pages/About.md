@@ -1,9 +1,8 @@
 ---
 layout: single
 title: "About Me"
-permalink: /about/
+permalink: /About/
 ---
-
 ### The Numbers
 
 I was born on 21<sup>st</sup> December 2003, in India
