@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About Me
-tags: [about, Jekyll, theme, responsive]
+layout: archive
+title: "About Me"
 permalink: /about/
 ---
 
