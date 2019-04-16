@@ -119,7 +119,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Behance"
-      icon: "fas fa-fw fa-behance"
+      icon: "fab fa-fw fa-behance"
       url: "https://www.behance.net/navanchauh8b7d"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
