@@ -205,7 +205,7 @@ incremental: false
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/
 
 # Markdown Processing
 kramdown:
