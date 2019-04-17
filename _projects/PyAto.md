@@ -8,6 +8,8 @@ sidebar:
     text: "MIT"
 ---
 
+A Python module for accessing Zomato's API
+
 ### Initialisation
 ```
 import PyAto
