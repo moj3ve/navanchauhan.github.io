@@ -132,7 +132,7 @@ author:
       url: "https://github.com/navanchauhan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/navanchauhan"
+      # url: "https://instagram.com/navanchauhan"
 
 # Site Footer
 footer:
