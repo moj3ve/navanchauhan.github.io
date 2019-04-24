@@ -13,6 +13,16 @@ I was born on 21<sup>st</sup> December 2003, in India
 
 * I also like automating the mundane stuff with the help of Python and test the limits of Cyber-Security.
 
+### Things I am proud of
+
+* Getting Top Positions in the National Science Concours Thrice 
+* Winning the inaugral Hackacon at IITD
+* Coming Second at a hackathon organised by Toyota
+
+### Internships
+
+* HP - Artificial Intelligence
+
 ### What all can I do?
 
 I can do a lot of stuff.
