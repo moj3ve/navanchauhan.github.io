@@ -6,6 +6,10 @@ sidebar:
     text: "Python3"
   - title: "License"
     text: "MIT"
+  - title: "Requirements"
+    text: "BS4"
+  - title: "Created On"
+    text: "23/04/2019"
 ---
 
 > Search and download the magazine of your choice
