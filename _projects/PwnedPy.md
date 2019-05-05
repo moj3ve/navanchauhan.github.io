@@ -14,7 +14,7 @@ sidebar:
 
 > A Python Wraper/Module for the Have I been Pwned API
 
-![PyPI - License](https://img.shields.io/pypi/l/PwnedPy.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cbe32a93922141a693b9679229ffcfbd)](https://www.codacy.com/app/navanchauhan/PwnedPy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=navanchauhan/PwnedPy&amp;utm_campaign=Badge_Grade)
+![PyPI - Version](https://img.shields.io/pypi/v/PwnedPy.svg) ![PyPI - License](https://img.shields.io/pypi/l/PwnedPy.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cbe32a93922141a693b9679229ffcfbd)](https://www.codacy.com/app/navanchauhan/PwnedPy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=navanchauhan/PwnedPy&amp;utm_campaign=Badge_Grade)
 
 ### Installation
 ```
