@@ -13,6 +13,7 @@ sidebar:
 ---
 
 > A Python module for accessing Zomato's API
+
 ![PyPI - Version](https://img.shields.io/pypi/v/PyAto-navanchauhan.svg) ![PyPI - License](https://img.shields.io/pypi/l/PyAto-navanchauhan.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cbe32a93922141a693b9679229ffcfbd)](https://www.codacy.com/app/navanchauhan/PyAto?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=navanchauhan/PyAto&amp;utm_campaign=Badge_Grade)
 ### Initialisation
 ```
