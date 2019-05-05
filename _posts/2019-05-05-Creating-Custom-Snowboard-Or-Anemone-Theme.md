@@ -18,6 +18,7 @@
 ## Theme Configuration
 
 * Now, inside the `themeName.theme` folder, create a file called `Info.plist` and paste the following
+
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -30,6 +31,7 @@
   </dict>
 </plist>
 ```
+
 * Replace `PackageName` with the name of the Pacakge and replace `ThemeName` with the Theme Name
 
 Now, you might ask what is the difference between `PackageName` and `ThemeName`?
