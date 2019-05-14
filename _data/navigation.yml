@@ -6,6 +6,8 @@ main:
     url: https://navanchauhan.github.io/
   - title: "Projects"
     url: https://navanchauhan.github.io/projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Cydia Repo"
     url: https://navanchauhan.github.io/repo/
   # - title: "About"
