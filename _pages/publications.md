@@ -1,7 +1,8 @@
 ---
-layout: archive
 title: "Publications"
+layout: archive
 permalink: /publications/
+collection: publications
 author_profile: true
 ---
 
