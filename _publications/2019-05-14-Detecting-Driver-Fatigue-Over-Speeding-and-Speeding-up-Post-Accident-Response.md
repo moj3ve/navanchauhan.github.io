@@ -1,7 +1,7 @@
 ---
 title: "Detecting Driver Fatigue, Over-Speeding, and Speeding up Post-Accident Response"
 collection: publications
-permalink: /publication/2019-05-14-Detecting-Driver-Fatigue-Over-Speeding-and-Speeding-up-Post-Accident-Response
+permalink: /publications/2019-05-14-Detecting-Driver-Fatigue-Over-Speeding-and-Speeding-up-Post-Accident-Response
 excerpt: 'This paper is about Detecting Driver Fatigue, Over-Speeding, and Speeding up Post-Accident Response.'
 date: 2019-05-14
 venue: 'International Research Journal of Engineering and Technology (IRJET), Volume 6, Issue 5'
