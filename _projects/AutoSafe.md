@@ -16,7 +16,7 @@ sidebar:
 
 *This project was originaly created for the Toyota Hackathon organised at IIT Delhi on 17-18 December 2018. I won the second postion for this*
  
- ## Modules:
+## Modules:
  * Driver Fatigue Detector
  * Over-Speeding Detector
  * Sudden-Braking and Quick Response
