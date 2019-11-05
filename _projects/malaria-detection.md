@@ -12,7 +12,7 @@ sidebar:
     text: "23-10-2019"
 ---
 
-> Model for detecting P. Falcaria 
+> Model for detecting P. falciparum 
 
 # Detecting *P. falciparum* Using Deep Learning in Thick Blood Smear Samples
 
