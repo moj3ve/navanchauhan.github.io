@@ -1,6 +1,6 @@
-# Creating a Custom Image Classifier using Tensorflow 2.x and Keras
+# Creating a Custom Image Classifier using Tensorflow 2.x and Keras for Detecting Malaria
 
-**Done during Google Code-In, Org: Tensorflow**
+**Done during Google Code-In. Org: Tensorflow.**
 
 ## Imports
 
