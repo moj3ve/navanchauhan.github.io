@@ -1,5 +1,7 @@
 # Creating a Custom Image Classifier using Tensorflow 2.x and Keras
 
+**Done during Google Code-In, Org: Tensorflow**
+
 ## Imports
 
 ```
@@ -163,4 +165,4 @@ Validation Loss: 0.0
 
 We have achieved 98% Accuracy!
 
-Link to Colab Notebook: https://colab.research.google.com/drive/1ZswDsxLwYZEnev89MzlL5Lwt6ut7iwp-
+[Link to Colab Notebook](https://colab.research.google.com/drive/1ZswDsxLwYZEnev89MzlL5Lwt6ut7iwp- "Colab Notebook")
