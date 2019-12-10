@@ -45,7 +45,11 @@ img = tf.cast(p, tf.float32)
 
 Finally we make the prediction
 
-`print(['Infected','Uninfected'][np.argmax(model.predict(img))])`
+```
+print(['Infected','Uninfected'][np.argmax(model.predict(img))])
+```
+
+`Infected`
 
 
 
