@@ -15,23 +15,33 @@ import os
 
 Then we read the file using OpenCV.
 
-`image=cv2.imread(imagePath)`
+```
+image=cv2.imread(imagePath)
+```
 
 The cv2. imread() function returns a NumPy array representing the image. Therefore, we need to convert it before we can use it.
 
-`image_from_array = Image.fromarray(image, 'RGB')`
+```
+image_from_array = Image.fromarray(image, 'RGB')
+```
 
 Then we resize the image 
 
-`size_image = image_from_array.resize((50,50))`
+```
+size_image = image_from_array.resize((50,50))
+```
 
 After this we create a batch consisting of only one image
 
-`p = np.expand_dims(size_image, 0)`
+```
+p = np.expand_dims(size_image, 0)
+```
 
 We then convert this uint8 datatype to a float32 datatype
 
-`img = tf.cast(p, tf.float32)`
+```
+img = tf.cast(p, tf.float32)
+```
 
 Finally we make the prediction
 
