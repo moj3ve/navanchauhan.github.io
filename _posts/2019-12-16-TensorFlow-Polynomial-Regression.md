@@ -508,3 +508,13 @@ plt.show()
 ## Results and Conclusion
 
 You just learnt Polynomial Regression using TensorFlow!
+
+## Notes
+
+### Overfitting
+
+> > Overfitting refers to a model that models the training data too well.
+Overfitting happens when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data. This means that the noise or random fluctuations in the training data is picked up and learned as concepts by the model. The problem is that these concepts do not apply to new data and negatively impact the models ability to generalize.
+> Source: Machine Learning Mastery
+
+Basically if you train your machine learning model on a small dataset for a really large number of epochs, the model will learn all the deformities/noise in the data and will actually think that it is a normal part. Therefore when it will see some new data, it will discard that new data as noise and will impact the accuracy of the model in a negative manner
