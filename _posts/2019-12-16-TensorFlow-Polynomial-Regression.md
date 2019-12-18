@@ -22,27 +22,6 @@ dependent variable (often denoted by Y), and series of varying variables (called
 This is a form of Regression Analysis where the relationship between Y and X is denoted as the nth degree/power of X.
 Polynomial regression even fits a non-linear relationship (e.g when the points don't form a straight line). 
 
-### Examples of Polynomial Equations
-
-Linear - Degree 1
-
-![img](http://www.sciweavers.org/tex2img.php?eq=ax%20%2B%20b&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-Quadratic - Degree 2
-
-![img](http://www.sciweavers.org/tex2img.php?eq=%20ax%5E%7B2%7D%20%2B%20bx%20%2B%20c&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-Cubic - Degree 3 
-
-![img](http://www.sciweavers.org/tex2img.php?eq=ax%5E%7B3%7D%20%2B%20bx%5E%7B2%7D%20%2B%20cx%20%2B%20d&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-Quartic - Degree 4 
-
-![img](http://www.sciweavers.org/tex2img.php?eq=%20ax%5E%7B4%7D%20%2B%20bx%5E%7B3%7D%20cx%5E%7B2%7D%20%2B%20dx%20%2B%20e&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
-Quintic - Degree 5
-
-![img](http://www.sciweavers.org/tex2img.php?eq=ax%5E%7B5%7D%20%2B%20bx%5E%7B4%7D%20%2B%20cx%5E%7B3%7D%20%2B%20dx%5E%7B2%7D%20%2B%20ex%20%2B%20f&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 ## Imports
 
