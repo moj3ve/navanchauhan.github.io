@@ -128,8 +128,51 @@ First we create a single view app (make sure you check the use SwiftUI button)
 
 Then we copy our .mlmodel file to our project (Just drag and drop the file in the XCode Files Sidebar)
 
+Our ML Model does not take a string directly as an input, rather it takes bag of words as an input. 
+DescriptionThe bag-of-words model is a simplifying representation used in NLP, in this text is represented as a bag of words, without any regatd of grammar or order, but noting multiplicity
 
-Complete Code
+We define our bag of words function
+
+
+```
+func bow(text: String) -> [String: Double] {
+        var bagOfWords = [String: Double]()
+        
+        let tagger = NSLinguisticTagger(tagSchemes: [.tokenType], options: 0)
+        let range = NSRange(location: 0, length: text.utf16.count)
+        let options: NSLinguisticTagger.Options = [.omitPunctuation, .omitWhitespace]
+        tagger.string = text
+        
+        tagger.enumerateTags(in: range, unit: .word, scheme: .tokenType, options: options) { _, tokenRange, _ in
+            let word = (text as NSString).substring(with: tokenRange)
+            if bagOfWords[word] != nil {
+                bagOfWords[word]! += 1
+            } else {
+                bagOfWords[word] = 1
+            }
+        }
+        
+        return bagOfWords
+    }
+```
+
+
+We also declare our variables
+
+```
+@State private var title: String = ""
+@State private var headline: String = ""
+@State private var alertTitle = ""
+@State private var alertText = ""
+@State private var showingAlert = false
+```
+
+Finally, we implement a simple function which reads the two text fields, creates their bag of words representation and displays an alert with the appropriate result
+
+
+
+**Complete Code**
+
 
 ```
 import SwiftUI
