@@ -1,6 +1,6 @@
 ---
 title: "Malaria Detection"
-excerpt: "P. Falcaria detection in thick blood smears using deep learning"
+excerpt: "*P. falciparum* detection in thick blood smears using deep learning"
 sidebar:
   - title: "Languages Used"
     text: "Python3"
